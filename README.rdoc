@@ -1,6 +1,9 @@
+= Fork Purpose
+  The reason for this fork is change the dependency to rely on debugger instead of the older and unmaintainted ruby-debug19
+
 NOTE: If you're using Ruby 1.8.x please use the 1.x series of rack-debug
 
-Install
+= Install
 
  $ gem install rack-debug
 
