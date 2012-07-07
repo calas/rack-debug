@@ -1,6 +1,6 @@
 module Rack
-  module Debug
-    VERSION = "2.0.0"
+  class Debug
+    VERSION = "2.0.1"
   end
 end
 
